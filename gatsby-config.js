@@ -8,12 +8,12 @@ module.exports = {
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://yihong.run',
+        url: 'https://blog.xiaohei.im',
       },
-      {
-        name: 'About',
-        url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
-      },
+//       {
+//         name: 'About',
+//         url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
+//       },
     ],
   },
   plugins: [
