@@ -1,0 +1,22 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>5388.14</distance>
+<average_hr>141.0</average_hr>
+<average_speed>3.009999990463257</average_speed>
+<start_time>2024-11-22T10:44:54+00:00</start_time>
+<end_time>2024-11-22T11:14:44.210000+00:00</end_time>
+<moving_time>1779.528</moving_time>
+<elapsed_time>1841.525</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2024-11-22T10:44:54.000Z</time>
+  </metadata>
+  <trk>
+    <name>恢复训练</name>
+    <type>treadmill_running</type>
+    <trkseg/>
+  </trk>
+</gpx>
